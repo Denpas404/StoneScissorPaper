@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9da04167-4306-48ba-8368-96268dc172e4": {
+      "ProjectGuid": "9da04167-4306-48ba-8368-96268dc172e4",
+      "DisplayName": "StoneScissorPaperConsoleApp",
+      "ColorIndex": 0
+    },
+    "d557163e-a73a-48f6-9709-53e373968a13": {
+      "ProjectGuid": "d557163e-a73a-48f6-9709-53e373968a13",
+      "DisplayName": "StoneScissorPaperClassLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

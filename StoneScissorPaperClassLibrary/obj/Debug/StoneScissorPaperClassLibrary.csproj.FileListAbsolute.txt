@@ -1,0 +1,6 @@
+C:\Users\depa\source\repos\StoneScissorPaper\StoneScissorPaperClassLibrary\bin\Debug\StoneScissorPaperClassLibrary.dll
+C:\Users\depa\source\repos\StoneScissorPaper\StoneScissorPaperClassLibrary\bin\Debug\StoneScissorPaperClassLibrary.pdb
+C:\Users\depa\source\repos\StoneScissorPaper\StoneScissorPaperClassLibrary\obj\Debug\StoneScissorPaperClassLibrary.csproj.AssemblyReference.cache
+C:\Users\depa\source\repos\StoneScissorPaper\StoneScissorPaperClassLibrary\obj\Debug\StoneScissorPaperClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\depa\source\repos\StoneScissorPaper\StoneScissorPaperClassLibrary\obj\Debug\StoneScissorPaperClassLibrary.dll
+C:\Users\depa\source\repos\StoneScissorPaper\StoneScissorPaperClassLibrary\obj\Debug\StoneScissorPaperClassLibrary.pdb

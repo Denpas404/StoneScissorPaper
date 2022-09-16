@@ -1,0 +1,11 @@
+C:\Users\depa\source\repos\StoneScissorPaper\StoneScissorPaperConsoleApp\obj\Debug\StoneScissorPaperConsoleApp.csproj.AssemblyReference.cache
+C:\Users\depa\source\repos\StoneScissorPaper\StoneScissorPaperConsoleApp\obj\Debug\StoneScissorPaperConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\depa\source\repos\StoneScissorPaper\StoneScissorPaperConsoleApp\obj\Debug\StoneScissorPaperConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\depa\source\repos\StoneScissorPaper\StoneScissorPaperConsoleApp\bin\Debug\StoneScissorPaperConsoleApp.exe.config
+C:\Users\depa\source\repos\StoneScissorPaper\StoneScissorPaperConsoleApp\bin\Debug\StoneScissorPaperConsoleApp.exe
+C:\Users\depa\source\repos\StoneScissorPaper\StoneScissorPaperConsoleApp\bin\Debug\StoneScissorPaperConsoleApp.pdb
+C:\Users\depa\source\repos\StoneScissorPaper\StoneScissorPaperConsoleApp\bin\Debug\StoneScissorPaperClassLibrary.dll
+C:\Users\depa\source\repos\StoneScissorPaper\StoneScissorPaperConsoleApp\bin\Debug\StoneScissorPaperClassLibrary.pdb
+C:\Users\depa\source\repos\StoneScissorPaper\StoneScissorPaperConsoleApp\obj\Debug\StoneScissorPaperConsoleApp.csproj.CopyComplete
+C:\Users\depa\source\repos\StoneScissorPaper\StoneScissorPaperConsoleApp\obj\Debug\StoneScissorPaperConsoleApp.exe
+C:\Users\depa\source\repos\StoneScissorPaper\StoneScissorPaperConsoleApp\obj\Debug\StoneScissorPaperConsoleApp.pdb
